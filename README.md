@@ -21,9 +21,9 @@ There are hundreds of free, legally available ZX Spectrum games at [World of Spe
 1. Timex TC2068
 1. Timex TS2068
 1. Spectrum 16K
-1. Pentagon 128K (needs `128p-0.rom`, `128p-1.rom`, and `trdos.rom`)
-1. Pentagon 512K (needs `128p-0.rom`, `128p-1.rom`, `gluck.rom`, and `trdos.rom`)
-1. Pentagon 1024 (needs `128p-0.rom`, `128p-1.rom`, `gluck.rom`, and `trdos.rom`)
+1. Pentagon/Пентагон 128K (needs `128p-0.rom`, `128p-1.rom`, and `trdos.rom`)
+1. Pentagon/Пентагон 512K (needs `128p-0.rom`, `128p-1.rom`, `gluck.rom`, and `trdos.rom`)
+1. Pentagon/Пентагон 1024 (needs `128p-0.rom`, `128p-1.rom`, `gluck.rom`, and `trdos.rom`)
 1. Scorpion 256K (needs `256s-0.rom`, `256s-1.rom`, `256s-2.rom`, and `256s-3.rom`)
 
 The last four machines need additional ROMs to work. Create a `fuse` folder inside the `<system>` folder, download the required ROMs and put them into that folder.
