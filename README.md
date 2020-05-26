@@ -24,7 +24,7 @@ There are hundreds of free, legally available ZX Spectrum games at [World of Spe
 1. Pentagon/Пентагон 128K (needs `128p-0.rom`, `128p-1.rom`, and `trdos.rom`)
 1. Pentagon/Пентагон 512K (needs `128p-0.rom`, `128p-1.rom`, `gluck.rom`, and `trdos.rom`)
 1. Pentagon/Пентагон 1024 (needs `128p-0.rom`, `128p-1.rom`, `gluck.rom`, and `trdos.rom`)
-1. Scorpion/скорпион 256K (needs `256s-0.rom`, `256s-1.rom`, `256s-2.rom`, and `256s-3.rom`)
+1. Scorpion/апельсин скорпион 256K (needs `256s-0.rom`, `256s-1.rom`, `256s-2.rom`, and `256s-3.rom`)
 
 The last four machines need additional ROMs to work. Create a `fuse` folder inside the `<system>` folder, download the required ROMs and put them into that folder.
 
